@@ -2638,7 +2638,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"npm-publish-test-core@0.0.0, npm-publish-test-core@workspace:packages/core":
+"npm-publish-test-core@0.1.0, npm-publish-test-core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "npm-publish-test-core@workspace:packages/core"
   dependencies:
@@ -2828,7 +2828,7 @@ __metadata:
     eslint: ^8.45.0
     eslint-plugin-react-hooks: ^4.6.0
     eslint-plugin-react-refresh: ^0.4.3
-    npm-publish-test-core: 0.0.0
+    npm-publish-test-core: 0.1.0
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: ^5.0.2
@@ -2848,7 +2848,7 @@ __metadata:
     eslint: ^8.45.0
     eslint-plugin-react-hooks: ^4.6.0
     eslint-plugin-react-refresh: ^0.4.3
-    npm-publish-test-core: 0.0.0
+    npm-publish-test-core: 0.1.0
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: ^5.0.2

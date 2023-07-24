@@ -1,6 +1,6 @@
 {
   "name": "npm-publish-test-core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -26,6 +26,6 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   },
-  "main": "dist/core.js",
+  "main": "dist/npm-publish-test-core.js",
   "types": "dist/index.d.ts"
 }

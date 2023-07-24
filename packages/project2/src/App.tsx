@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css';
-import { Console } from 'core';
+import { Console } from 'npm-publish-test-core';
 
 function App() {
   const [count, setCount] = useState(0)

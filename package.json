@@ -7,7 +7,7 @@
     ]
   },
   "scripts": {
-    "core": "yarn workspace core",
+    "core": "yarn workspace npm-publish-test-core",
     "project1": "yarn workspace project1",
     "project2": "yarn workspace project2"
   },
